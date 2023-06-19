@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.c581d03c.css",
+    "main.js": "/react-app/static/js/main.1741bbce.js",
+    "static/media/1200.jpg": "/react-app/static/media/1200.8b19021432a39668e7f6.jpg",
+    "static/media/ABOSAADA.pdf": "/react-app/static/media/ABOSAADA.0be66459566639cc3de9.pdf",
+    "static/media/Wh.jpg": "/react-app/static/media/Wh.0177f3e21fb6656e7136.jpg",
+    "static/media/339.jpg": "/react-app/static/media/339.be04fca35a6791f7d9ae.jpg",
+    "static/media/9021.jpg": "/react-app/static/media/9021.2e4ba37f44a505a6c6f1.jpg",
+    "static/media/683.jpg": "/react-app/static/media/683.d27403a525a37cb5c7f4.jpg",
+    "static/media/326.jpg": "/react-app/static/media/326.f13ab8237b8a89371c37.jpg",
+    "static/media/456.jpg": "/react-app/static/media/456.0f12d2672a5369c76f65.jpg",
+    "static/media/231.jpg": "/react-app/static/media/231.4d2c9e0e39ec34bb7da8.jpg",
+    "static/media/649.jpg": "/react-app/static/media/649.9d11f88ff38e345de834.jpg",
+    "static/media/155.jpg": "/react-app/static/media/155.094abd426df1d6ea5be0.jpg",
+    "static/media/9090.jpg": "/react-app/static/media/9090.b2c0d4f5a091a5f08e36.jpg",
+    "index.html": "/react-app/index.html",
+    "main.c581d03c.css.map": "/react-app/static/css/main.c581d03c.css.map",
+    "main.1741bbce.js.map": "/react-app/static/js/main.1741bbce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c581d03c.css",
+    "static/js/main.1741bbce.js"
+  ]
+}
