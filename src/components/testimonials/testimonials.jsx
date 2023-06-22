@@ -28,7 +28,7 @@ const data = [
   {
     avatar: avatar3,
     name: 'cergei molah',
-    review:' thank you aws abousaada'
+    review:' thank you '
   },
   {
     avatar: avatar4,
